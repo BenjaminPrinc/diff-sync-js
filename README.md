@@ -1,4 +1,4 @@
-# diff-sync-js
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/904ef209-909f-45fc-b431-51f915174a4d"># diff-sync-js
 
 A JavaScript implementation of Neil Fraser Differential Synchronization Algorithm
 
@@ -197,8 +197,12 @@ strPatch
 # Q&A SYT-Theorie 20.11.2024
 
 - Which implementation of diff-patch-Alg?
+    - GUARANTEED DELIVERY METHOD
 - Where are the documents & the shadows?
+    - <img width="784" alt="image" src="https://github.com/user-attachments/assets/b8da2e8b-a1cb-435e-ae3b-edf70654bb2e">
 - How and Why can we adjust the sync-cycle? What are the dis-advantages?
+    - Implement an adaptive synchronization system that modifies the sync frequency dynamically based on activity levels.
+    - Better Efficiency and Resource Management
 - Where/How is the edit-Stack implemented?
 - Is it possible to deploy a Peer-to-Peer Version of Mr Wei's impementation?
 - How is it possible to use the API in other SS-Projects?

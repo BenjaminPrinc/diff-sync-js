@@ -222,6 +222,8 @@ strPatch
 The **edits** represent the edit-stack in form of an array. 
 - Is it possible to deploy a Peer-to-Peer Version of Mr Wei's impementation?
   - In the current state, it only supports the Client-Server communication. To change it into a Peer-to-Peer Version, each peer has to be able to send and receive edits. If receiving the an update, a peer has to apply the patch on his shadow and update his version. 
-- How is it possible to use the API in other SS-Projects?
+- How is it possible to use the API in other JS-Projects?
 - Are the JSON-Docs interchangable with other kind of Docs?
 - How is Mr Wei solving the conflicts?
+- What are possible enhancements of Mr Wei's Code? Should you suggest a pull-request?
+- Is it possible to combine diff-sync-js with a doc-oriented NoSQL-Datastore

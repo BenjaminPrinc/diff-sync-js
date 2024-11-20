@@ -202,3 +202,5 @@ strPatch
 - Where/How is the edit-Stack implemented?
 - Is it possible to deploy a Peer-to-Peer Version of Mr Wei's impementation?
 - How is it possible to use the API in other SS-Projects?
+- Are the JSON-Docs interchangable with other kind of Docs?
+- How is Mr Wei solving the conflicts?

@@ -227,4 +227,6 @@ The **edits** represent the edit-stack in form of an array.
 - Are the JSON-Docs interchangable with other kind of Docs?
 - How is Mr Wei solving the conflicts?
 - What are possible enhancements of Mr Wei's Code? Should you suggest a pull-request?
+    - 
+    - I don't think a Pull-Request on the original repo is sensibel because this is very possibly the best implementation of this version. It may be more wise to add a new version to the original Project without overwriting it because any sensibel improvement probably also has its downsides to the original one.
 - Is it possible to combine diff-sync-js with a doc-oriented NoSQL-Datastore

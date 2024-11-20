@@ -228,6 +228,5 @@ The **edits** represent the edit-stack in form of an array.
   - As long as the other document typ can be serializied into JSON, it is possible to use it within this implementation. Such documents could be Plain/Rich-Text, binary docs which can be transformed into JSON-compatible format
 - How is Mr Wei solving the conflicts?
 - What are possible enhancements of Mr Wei's Code? Should you suggest a pull-request?
-    - 
     - I don't think a Pull-Request on the original repo is sensibel because this is very possibly the best implementation of this version. It may be more wise to add a new version to the original Project without overwriting it because any sensibel improvement probably also has its downsides to the original one.
 - Is it possible to combine diff-sync-js with a doc-oriented NoSQL-Datastore

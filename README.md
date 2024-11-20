@@ -219,7 +219,7 @@ strPatch
                 edits: []
 };
 ````
-  - The **edits** represent the edit-stack in form of an array. 
+The **edits** represent the edit-stack in form of an array. 
 - Is it possible to deploy a Peer-to-Peer Version of Mr Wei's impementation?
   - In the current state, it only supports the Client-Server communication. To change it into a Peer-to-Peer Version, each peer has to be able to send and receive edits. If receiving the an update, a peer has to apply the patch on his shadow and update his version. 
 - How is it possible to use the API in other SS-Projects?

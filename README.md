@@ -200,3 +200,5 @@ strPatch
 - Where are the documents & the shadows?
 - How and Why can we adjust the sync-cycle? What are the dis-advantages?
 - Where/How is the edit-Stack implemented?
+- Is it possible to deploy a Peer-to-Peer Version of Mr Wei's impementation?
+- How is it possible to use the API in other SS-Projects?

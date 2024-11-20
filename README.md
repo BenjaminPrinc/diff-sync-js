@@ -1,4 +1,4 @@
-<img width="784" alt="image" src="https://github.com/user-attachments/assets/904ef209-909f-45fc-b431-51f915174a4d"># diff-sync-js
+# diff-sync-js
 
 A JavaScript implementation of Neil Fraser Differential Synchronization Algorithm
 

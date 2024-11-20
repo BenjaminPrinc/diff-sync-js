@@ -225,6 +225,7 @@ The **edits** represent the edit-stack in form of an array.
 - How is it possible to use the API in other JS-Projects?
     - Make it available by uploading it as a public (e.g. npm-)library for others to use.
 - Are the JSON-Docs interchangable with other kind of Docs?
+  - As long as the other document typ can be serializied into JSON, it is possible to use it within this implementation. Such documents could be Plain/Rich-Text, binary docs which can be transformed into JSON-compatible format
 - How is Mr Wei solving the conflicts?
 - What are possible enhancements of Mr Wei's Code? Should you suggest a pull-request?
 - Is it possible to combine diff-sync-js with a doc-oriented NoSQL-Datastore

@@ -192,3 +192,11 @@ strPatch
      */
     strPatch(val, patch)
 ```
+
+
+# Q&A SYT-Theorie 20.11.2024
+
+- Which implementation of diff-patch-Alg?
+- Where are the documents & the shadows?
+- How and Why can we adjust the sync-cycle? What are the dis-advantages?
+- Where/How is the edit-Stack implemented?

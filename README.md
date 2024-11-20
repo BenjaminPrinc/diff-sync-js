@@ -197,8 +197,18 @@ strPatch
 # Q&A SYT-Theorie 20.11.2024
 
 - Which implementation of diff-patch-Alg?
+    - GUARANTEED DELIVERY METHOD
 - Where are the documents & the shadows?
+    - <img width="784" alt="image" src="https://github.com/user-attachments/assets/b8da2e8b-a1cb-435e-ae3b-edf70654bb2e">
 - How and Why can we adjust the sync-cycle? What are the dis-advantages?
+    - Implement an adaptive synchronization system that modifies the sync frequency dynamically based on activity levels.
+    - Potential Advantages:
+        - Better Efficiency
+        - Resource Management
+    - Potential Disadvantages
+        - Lost Data
+        - Collisions
+        - Unnecessary Complexity
 - Where/How is the edit-Stack implemented?
  ````js 
  if (mainText !== null && mainText !== undefined) {

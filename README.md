@@ -202,7 +202,13 @@ strPatch
     - <img width="784" alt="image" src="https://github.com/user-attachments/assets/b8da2e8b-a1cb-435e-ae3b-edf70654bb2e">
 - How and Why can we adjust the sync-cycle? What are the dis-advantages?
     - Implement an adaptive synchronization system that modifies the sync frequency dynamically based on activity levels.
-    - Better Efficiency and Resource Management
+    - Potential Advantages:
+        - Better Efficiency
+        - Resource Management
+    - Potential Disadvantages
+        - Lost Data
+        - Collisions
+        - Unnecessary Complexity
 - Where/How is the edit-Stack implemented?
 - Is it possible to deploy a Peer-to-Peer Version of Mr Wei's impementation?
 - How is it possible to use the API in other SS-Projects?

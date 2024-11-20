@@ -200,7 +200,18 @@ strPatch
 - Where are the documents & the shadows?
 - How and Why can we adjust the sync-cycle? What are the dis-advantages?
 - Where/How is the edit-Stack implemented?
+ ````js 
+ if (mainText !== null && mainText !== undefined) {
+            container.shadow = {
+                [thisVersion]: 0,
+                [senderVersion]: 0,
+                value: jsonpatch.deepClone(mainText),
+                edits: []
+};
+````
+  - The **edits** represent the edit-stack in form of an array. 
 - Is it possible to deploy a Peer-to-Peer Version of Mr Wei's impementation?
+  - In the current state, it only supports the Client-Server communication. To change it into a Peer-to-Peer Version, each peer has to be able to send and receive edits. If receiving the an update, a peer has to apply the patch on his shadow and update his version. 
 - How is it possible to use the API in other SS-Projects?
 - Are the JSON-Docs interchangable with other kind of Docs?
 - How is Mr Wei solving the conflicts?
